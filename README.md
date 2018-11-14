@@ -1,1 +1,10 @@
 # Tugas4
+1.a. https://github.com/siska1/Tugas4/blob/master/AlgoritmaBubbleSort.Java
+1.b. https://github.com/siska1/Tugas4/blob/master/Insertion_Sort.Java
+1.c. https://github.com/siska1/Tugas4/blob/master/SelectionShort.Java
+1.d. https://github.com/siska1/Tugas4/blob/master/Margesort.Java
+1.e. https://github.com/siska1/Tugas4/blob/master/Shellsort.Java
+1.f. https://github.com/siska1/Tugas4/blob/master/AlgoritmaQuickSort.Java
+1.g. https://github.com/siska1/Tugas4/blob/master/AlgoritmaLinear.Java
+1.h. https://github.com/siska1/Tugas4/blob/master/AlgoritmaBinarySearch.Java
+1.i. https://github.com/siska1/Tugas4/blob/master/Hashtable.Java
